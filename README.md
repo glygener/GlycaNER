@@ -47,4 +47,4 @@ If you use GlycaNER, please cite:
 
 > Bhowmik S, Ranzinger R, Au Yeung CCH, Vora J, Bhuiyan U, Tiemeyer M, Mazumder R,
 > Vijay-Shanker K. GlycaNER: An Automated Glycan Structure Term Detection and
-> Normalization Tool in Biomedical Literature. Manuscript in preparation.
+> Normalization Tool in Biomedical Literature. Manuscript in review.
