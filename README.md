@@ -3,7 +3,7 @@
 GlycaNER is an automated tool that detects and normalizes glycan structure terms
 (GSTs) in biomedical literature. A BioBERT model, fine-tuned on 5,200 sentences
 from 601 PubMed abstracts (4,725 expert-reviewed terms), finds candidate terms.
-Rule-based post-processing then fixes term boundaries, resolves conjunctions and
+Post-processing then filters non-glyco terms, resolves conjunctions and
 parentheses, and assigns each term a type: GST, glycoconjugate (GCT), sugar,
 sequence, composition or generic. Finally, each term is normalized against the
 [Glycan Structure Dictionary (GSD)](https://wiki.glygen.org/Glycan_structure_dictionary)
