@@ -1,0 +1,6 @@
+(?i)(mannosyl|glycolyl|fucosyl|glucosyl|glycosyl|lactosyl|sialosyl|tetraosyl|triosyl|triaosyl|galactosyl|pentaosyl|pentosyl|hexosyl|galabiosyl)
+(?i)(amin|neuramin)osyl
+(?i)(mannosyl|glycolyl|fucosyl|glucosyl|lactosyl|glycosyl|sialosyl|triosyl|triaosyl|tetraosyl|tetrasyl|galactosyl|pentaosyl|pentosyl|hexaosyl|hexosyl|heptaosyl|octaosyl|galabiosyl)[-\s]?(?:I{1,3}|IV)
+(?i)sialyl[-\s]?(?:I{1,3}|IV)
+(?i)sialyl
+(?i)sialo

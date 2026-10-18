@@ -1,0 +1,2 @@
+(?i)(fucos|glucos|mannos|galactos|lactos|glycos|tetraos|hexos|hexaos|pentaos|heptos|heptaos|octaos)aminyl
+(?i)(fucos|glucos|mannos|galactos|lactos|glycos|tetraos|hexos|hexaos|pentaos|heptos|heptaos|octaos)amine

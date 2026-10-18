@@ -1,0 +1,79 @@
+Le^x | Lex | Le(x) | Le(X) | lewis x | lewisx | Lewis(x) | lewis-x | le-x -> Lewis X
+Le^y | Ley | Le(y) | Le(Y) | lewis y | lewisy | Lewis(y) | lewis-y | le-y -> Lewis Y
+Le(A) | Le^a | Lea | lewis a | lewis(a) | Le(a) | lewis-a | le-a -> Lewis A
+Le(B) | Le^b | Leb | lewis b | lewis(b) | Le(b) | lewis-b | le-b -> Lewis B
+SLex | SLe(X) | SLX -> SLewis X
+sulpho | sulfo | Su | Sul | sulfation | sulfate | sulfates | sulphate | sulphates | sulfated | sulphated | sulfuric acid -> Sulfo
+sulfatide | sulphatide -> Sulfatide
+Bi | Di | dimeric | dim -> Bi
+tri | tria -> Tri
+tetra -> Tetra
+penta -> Penta
+gangliosides -> Ganglioside
+glycolipids -> Glycolipid
+saccharides -> Saccharide
+9-OAc -> 9-O + Acetyl
+α | alpha -> Alpha
+mannose | Mannosyl -> Mannose
+acetyl | ac | Ac | acetylated -> Acetyl
+sialyl | sialosyl | sialo | sialylated | sialyl I | sialyl-I -> Sialyl
+fucosyl | fuc | fucosylated -> Fucosyl
+galactosyl | gal | Gal | Galacto | galactosylated -> Galactosyl
+glucosyl | glc | gluco | Gluco | glucosylated -> Glucosyl
+ganglio -> Ganglio
+globo -> Globo
+core | cores -> Core
+high-mannose | high mannose -> High-Mannose
+CMH -> Ceramide monohexoside
+CTH | CD77 -> ceramide trihexoside
+core-fucosylated | core fucosylated | core fuc | core-fuc -> Core-Fucosylated
+LacNac | LN | lacnac | N-Acetyllactosamine | N-Acetyl-lactosamine -> LacNAc
+LacdiNAc | LacdiNac | Lacdinac | LDN | GalNAcβ1-4GlcNAc | GalNAcbeta1-4GlcNAc | GalNAc-β1-4GlcNAc | GalNAc-beta1-4GlcNAc | GalNAc-β1,4GlcNAc | GalNAc-beta1,4GlcNAc-> LacdiNAc
+N-Acetylgalactosaminyl-β1,4-N-acetylglucosamine | N-Acetylgalactosaminyl β1,4-N-acetylglucosamine | N-acetylgalactosaminyl-β1,4-n-acetylglucosamine | n-acetylgalactosaminyl-β1,4-n-acetylglucosamine | N-Acetylgalactosaminyl-beta1,4-N-acetylglucosamine | n-acetylgalactosaminyl beta1,4 n-acetylglucosamine | N-acetyl galactosaminyl-β1,4-N-acetyl glucosamine | N-Acetyl galactosaminyl β1,4 N-acetyl glucosamine | n-Acetyl galactosaminyl beta1,4 n-Acetyl glucosamine | N-acetyl galactosaminyl-beta1,4-n-acetyl glucosamine -> LacdiNAc
+Lac | Lacto | Lactose -> Lactosyl
+Cer | Cers | ceramides | ceramide -> Ceramide
+Lc2 | Lc_2 | Lc(2) -> Lactosylceramide
+Lc3 | Lc_3 | Lc(3) -> Lactotriosylceramide
+GlcNAc | GlcNac| Glcnac | N-Acetyl-D-glucosamine | N-Acetylglucosamine | N-Acetyl-glucosamine -> GlcNAc
+GalNAc | GalNac| Galnac | N-Acetyl-D-galactosamine | N-Acetylgalactosamine | N-Acetyl-galactosamine | N-Acetylgalactosaminyl | N-Acetyl-galactosaminyl-> GalNAc
+antennary -> Antennary 
+type-1 | type 1 | type-I | type I -> Type 1
+type-2 | type 2 | type-II | type II -> Type 2
+type-3 | type 3 | type 3) | type-III | type III -> Type 3
+type-4 | type 4 | type-IV | type IV -> Type 4
+types H-I -> H Type 1
+types B-I -> B Type 1
+core-1 | core 1 | core-I | core I -> Core 1
+core-2 | core 2 | core-II | core II -> Core 2
+core-3 | core 3 | core-III | core III -> Core 3
+core-4 | core 4 | core-IV | core IV -> Core 4
+chondroitin | chondroitin -> Chondroitin  
+dermatan | dermatin -> Dermatan  
+cis -> Chondroitin Sulfate
+asialo | as -> aSialyl
+bis -> Bisialyl
+SA | sia | sialic acid | sialic acids -> Sialic Acid
+Gg4 | Ggo4 -> GgO4
+GM1a | Gm1 -> GM1
+GD1B | GD1b | Gd1b -> GD1B
+GD1 | GD1c -> GD1
+GD1a | GD1alpha -> GD1a
+galactosylgloboside | galactosyl globoside | globopentaosylceramide | globopentaosyl ceramide | Gb_5 | Gb(5) | Gb-5 | GB5 -> Gb5
+globotetraosylceramide | globotetraosyl ceramide | Gb_4 | Gb(4) | Gb-4 | GB4 -> Gb4
+Gb_3 | Gb(3) | GL3 | Gb-3 | GL-3 | globotriaosylceramide | globotriaosyl ceramide -> Gb3
+i antigen | I | i | i antigens -> I antigen
+T antigens | T-antigen | T-Antigens | T-antigens | T-Ag -> T Antigen
+Tn antigens | Tn Antigen | Tn antigen | Tn Antigens -> Tn
+heparan | heparin | heparitin | enoxaparin | enoxaparan | enoxaparitin | certoparin | certoparan | certoparitin | bemiparin | bemiparan | bemiparitin | cy 222 | fluxum | heparinic acid | parnaparin | parnaparan | parnaparitin | reviparin | reviparan | reviparitin | sandoparin | sandoparan | sandoparitin -> Heparan
+keratan | keratin | kerato -> Keratan
+A-associated -> Blood Group A
+complex type | complex-type -> Complex-Type
+hyaluronan | HA | hyaluronan acid -> Hyaluronan
+determinants -> Determinant
+types -> Type
+STN antigen -> Sialylated Tn Antigen
+blood group H | H blood group | H antigens -> Blood Group H
+blood group A | blood groups A | A blood group | A antigens -> Blood Group A
+blood group B | blood groups B | B blood group | B antigens -> Blood Group B
+blood group O | blood groups O | O blood group | O antigens -> Blood Group O
+blood group I | blood groups O | I blood group | I antigens -> Blood Group I

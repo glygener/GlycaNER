@@ -1,0 +1,17 @@
+(?i)globoside\s(?:[1234]|I{1,3}|IV)
+(?i)oside(s)?
+(?i)(gangli|isoglob|lact|glyc|cerebr|fuc|mann|sial|hex|fruct|xyl|all|altr|gul|id|tal|arabin|rib|lyx|rhamn|digitox)oside(s)?
+\bCTH\b
+\bCMH\b
+\bCDH\b
+\bCTeH\b
+\bCPH\b
+(?i)n?[Ll]c[-_\s]?\([345]\)
+(?i)n?[Ll]c[-_\s]?[345]
+\bG[Bb][-]?[123456789]\b
+(?i)(DS|i)?G[Bb][-_]?[123456789]
+(?i)(DS|i)?G[Bb]\([123456789]\)
+(?i)G[Ll][-_]?[123456789]
+(?i)G[Ll]\([123456789]\)
+(?i)sulfatide
+(?i)sulphatide

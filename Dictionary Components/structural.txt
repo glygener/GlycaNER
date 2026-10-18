@@ -1,0 +1,11 @@
+(?i)complex[-\s](type)?(s)?
+(?i)\(?core[-\s][1234]?\)?
+\bC1G\b
+(?i)sialylated
+(?i)fuc(osylated|a)?\d?
+(?i)man[_]?[56]
+(?i)high[-\s]?mannose
+(?i)hybrid
+\b\(?VIM[-\s]?[12]\)?\b
+(?i)core[-\s]?fuc(osylated)?
+(?i)core[-\s]?fucose

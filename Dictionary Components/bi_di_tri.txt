@@ -1,0 +1,1 @@
+(?i)(bi|di|dim|tri|tria|tetra|mono|penta|pent|hex|hexa|hept|hepta|poly|oligo|lyso|octa|nona)

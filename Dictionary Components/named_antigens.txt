@@ -1,0 +1,13 @@
+\b(Tn|T|TF|P|A|B|H|P1|DF3|CA19-9)[-\s][Aa]ntigen(s)?\b
+\b(a|α|[Aa]lpha)[-\s]?[Gg]al[-\s][Aa]ntigen(s)?\b
+(?i)(pk|p\^k)[-\s]antigen(s)?
+(?i)forssman\s(antigen|glycolipid)(s)?
+(?i)forssman
+\bCD57\b
+(?i)i\s?antigen(s)?
+\bHNK[-]?(1|2|3)?\b
+\bHNK[-]?(1|2|3)?\s?[Aa]ntigen(s)?\b
+\bSTN[-]?(1|2|3)?\s?[Aa]ntigen(s)?\b
+\bCA19-9\b
+\bCA-50\b
+\b(Tn|T|TF|P|H|P1|DF3|CA19-9)[-\s][Aa]g?\b

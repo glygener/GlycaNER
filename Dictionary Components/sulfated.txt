@@ -1,0 +1,4 @@
+(?i)sulfated
+(?i)sulphated
+(?i)phosphorylated
+(?i)(sialyl|fucosyl|sialosyl|acetyl|galactosyl|pentaosyl)[-]?(ated)

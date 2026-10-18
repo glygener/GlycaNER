@@ -1,0 +1,8 @@
+(?i)\bblood[-\s]group\s(A|B|O|H|P|Pk|PK|P1|ABH|ABO)\(?\d?\)?\b
+\bABO\b
+\bABH\b
+(?i)\b(blood)[-\s]?(group)(s)?\s?(A|B|O|H|P|Pk|PK|P1|ABH|ABO)?\b
+\b(A|B|O|H)[-\s](?:[1234]|I{1,3}|IV|V)\b
+(?i)\b(A|B|O|H|P|Pk|PK|P1|ABH|ABO)\sblood\sgroups?\b
+(?i)\bhisto[-\s]?blood[-\s]?(group)(s)?\s?(A|B|O|H|P|Pk|PK|P1|ABH|ABO)?\b
+(?i)\b(A|B|O|H|P|Pk|PK|P1|ABH|ABO)\shisto[\-s]?blood\sgroups?\b

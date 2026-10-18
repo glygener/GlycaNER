@@ -1,0 +1,4 @@
+(?i)antenna(e)?
+(?i)antennar(y|ies)
+(?i)branched
+(?i)branching

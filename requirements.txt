@@ -1,0 +1,15 @@
+# torch is installed separately in the Dockerfile from the CPU-only wheel index.
+transformers==4.36.2
+benepar==0.2.0
+torch-struct==0.5
+protobuf==3.20.3
+sentencepiece==0.2.0
+spacy==3.7.5
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+nltk==3.8.1
+numpy==1.26.4
+pandas==2.2.3
+openpyxl==3.1.5
+XlsxWriter==3.1.9
+regex==2023.10.3
+requests==2.32.3

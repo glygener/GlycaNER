@@ -1,0 +1,5 @@
+(?i)n?-?acetyl[-\s]?(?:I{1,3}|IV)
+(?i)n?-?acetyl
+^\d+-O(Ac)
+(?i)phosphoryl
+(?i)methyl

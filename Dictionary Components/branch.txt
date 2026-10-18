@@ -1,0 +1,5 @@
+(?i)-?linked
+(?i)-?containing
+(?i)-?linkage(s)?
+(?i)linear
+(?i)straight

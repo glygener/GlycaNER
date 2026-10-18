@@ -1,0 +1,13 @@
+(?i)cyclic
+(?i)para
+(?i)iso
+(?i)lipo
+(?i)pauci
+(?i)Sd\(?A\)?
+\bSd\^?A\b
+\b[Aa]cid(s)?\b
+(?i)-active
+(?i)-positive
+(?i)-negative
+(?i)(di|mono)meric
+(?i)glycerol

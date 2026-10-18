@@ -1,0 +1,5 @@
+(?i)terminal
+(?i)termini
+(?i)bisecting
+(?i)external
+(?i)internal

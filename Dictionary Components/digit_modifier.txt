@@ -1,0 +1,10 @@
+[abcABC]?\d[']?[,-]\d[']?[-]?\d?[-]?
+[abcABC]?[-]?\d[']?[-]O?-?
+(?i)\b(N|A|B|O|H|P|P1|Pk)-
+\b([Aa]c|[Aa]s|[Ss]u|[Cc]is)-?
+\b(A|B|O|H|P|I|P1|Pk)\s\b
+^(\d+-O)Ac
+\d--?-?-?-?\d
+(?i)(α|𝛃|alpha|beta)\d[']?[,-]\d[']?[-]?\d?[-]?
+(?i)(alpha|beta)[-\s]?\d?
+(?i)(N|A|B|O|H|I|P|P1|Pk)-linked
