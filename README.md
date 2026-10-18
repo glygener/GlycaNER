@@ -6,7 +6,7 @@ from 601 PubMed abstracts (4,725 expert-reviewed terms), finds candidate terms.
 Rule-based post-processing then fixes term boundaries, resolves conjunctions and
 parentheses, and assigns each term a type: GST, glycoconjugate (GCT), sugar,
 sequence, composition or generic. Finally, each term is normalized against the
-[Glycan Structure Dictionary (GSD)](https://wiki.glygen.org/Glycan_Structure_Dictionary_v2)
+[Glycan Structure Dictionary (GSD)](https://wiki.glygen.org/Glycan_structure_dictionary)
 using the glycan structural components in `Dictionary Components/`.
 
 ## Run with Docker
